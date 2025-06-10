@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rajkrishna sahoo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer Code Explorer Night Owl Thinker Creative Visionary from Bhubaneshwar, India
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
