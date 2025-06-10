@@ -1,7 +1,5 @@
-## Hi  👋, I'm Rajkrishna sahoo
 
-**Rajkrishnasahoo/Rajkrishnasahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">Hi 👋, I'm Raju Bhai</h1>
+<h1 align="center">Hi 👋, I'm Rajkrishna sahoo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
